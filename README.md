@@ -59,6 +59,7 @@ in your css
 ```
 .section,.phrase {
   opacity: 0;
+  transistion: 1s;
 }
 
 .s1 section1, .s2 section2, .p1 phrase1, .p2 phrase2 {
